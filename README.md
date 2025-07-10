@@ -1,9 +1,9 @@
-# scikit-learn-workshop
+# Scikit-learn Workshop
 
 Google Colab links:
 * (Under construction)
 
-# OUTLINE:
+## Outline
 
 **Day 1**
 
@@ -14,8 +14,8 @@ Google Colab links:
 - The Column Transformer [.5]
 - Pipelines [.5]
 
-Total (notebooks): 3.5
-Total (exercises and slides): 2.5
+Total time (notebooks): 3.5hrs<br>
+Total time (exercises and slides): 2.5hrs
 
 **Day 2**
 
@@ -25,5 +25,5 @@ Total (exercises and slides): 2.5
 - Dimensionality Reducion [.5]
 - Clustering [.5]
 
-Total (notebooks): 3.5
-Total (exercises and slides): 2.5
+Total time (notebooks): 3.5<br>
+Total time (exercises and slides): 2.5
